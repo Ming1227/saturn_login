@@ -9,7 +9,7 @@
 
 ```
 dependencies:
-  saturn_routers:
+  saturn_login:
     git:
       url: https://github.com/Ming1227/saturn_login.git
 ```
